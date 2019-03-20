@@ -1,0 +1,6 @@
+name: celsius_fahrenheit
+type: problem
+label: Celsius Fahrenheit
+text: conversions.md
+include:
+- public_tests.yaml, public, ro

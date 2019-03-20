@@ -1,0 +1,10 @@
+- input: |
+    -10
+  output: |
+    14.0
+
+- input: |
+    8.5
+  output: |
+    47.3
+
