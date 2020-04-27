@@ -1,4 +1,4 @@
-# Conversões [![English](https://github.com/daltonserey/FlagKit/raw/master/Assets/PNG/US.png)](hello.md)
+# Conversões [![English](https://github.com/daltonserey/FlagKit/raw/master/Assets/PNG/US.png)](conversions.md)
 
 Escreva um programa que faz a conversões de temperaturas
 na escala Celsius para a escala Fahrenheit. Use a fórmula abaixo.

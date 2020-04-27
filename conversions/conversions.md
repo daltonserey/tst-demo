@@ -1,4 +1,4 @@
-# Conversions [![Português](https://github.com/daltonserey/FlagKit/raw/master/Assets/PNG/BR.png)](hello.pt.md)
+# Conversions [![Português](https://github.com/daltonserey/FlagKit/raw/master/Assets/PNG/BR.png)](conversions.pt.md)
 
 Write a program that performs conversions of a Celsius
 temperature to Fahrenheit. Use the formula below.
