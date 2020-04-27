@@ -16,4 +16,4 @@ the exercise and run the automated tests.
 ## Activities available
 
 - [Hello, World!](hello/hello.md) (`hello`)
-- [Celsius, Fahrenheit, Kelvin](conversions/conversions.md) (`conversions`)
+- [Celsius, Fahrenheit](conversions/conversions.md) (`conversions`)
