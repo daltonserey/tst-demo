@@ -3,7 +3,7 @@
 Escreva um programa que faz a conversões de temperaturas
 na escala Celsius para a escala Fahrenheit. Use a fórmula abaixo.
 
-<img src="https://render.githubusercontent.com/render/math?math=F = C * (9/5) + 32">
+![\frac{9}{5}C + 32](https://render.githubusercontent.com/render/math?math=%5Cfrac%7B9%7D%7B5%7DC%20%2B%2032)
 
 ## Entrada
 
