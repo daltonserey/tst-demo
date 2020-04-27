@@ -4,3 +4,5 @@ label: Celsius Fahrenheit
 text: conversions.md
 include:
 - public_tests.yaml, public, ro
+- conversions.md, public, ro
+- conversions.pt.md, public, ro
