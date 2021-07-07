@@ -1,3 +1,28 @@
-- output: |
-    Hello, World!
-  input:
+# this test matches the exact output
+- output: "Hello, World!\n"
+
+# similar to the one above, but ignores case
+- output: "Hello, World!\n"
+  ignore: case
+
+# the same, but using match instead of output
+- match: "Hello, World!\n$"
+  ignore: case
+
+# match can be any regular expression (python)
+# this test specifies that the output must have
+# the two substrings in sequence
+- match: .*Hello.*World.*
+  ignore: case
+
+# this test requires exact wording of Hello and World
+- match: (?=.*\bHello\b.*)(?=.*\bWorld\b.*)
+  ignore: case
+
+# this one accepts the words in any order
+- match: (?=.*Hello.*)(?=.*World.*)
+  ignore: case
+
+# finally, this one consideres any word as acceptable
+- match: .*\w+.*
+  ignore: case
