@@ -1,6 +1,6 @@
 name: delta
 type: problem
 label: Delta
-text: delta.md
+text: text.md
 include:
 - public_tests.yaml, public, rw
