@@ -1,0 +1,17 @@
+- input: |
+    3.0
+    4.0
+  match: .*Cateto 1.*Cateto 2.*Hipotenusa.*5.0.*
+  ignore: case
+
+- input: |
+    30.0
+    40.0
+  match: .*Cateto 1.*Cateto 2.*Hipotenusa.*50.0.*
+  ignore: case
+
+- input: |
+    15.0
+    20.0
+  match: .*Cateto 1.*Cateto 2.*Hipotenusa.*25.0.*
+  ignore: case

@@ -1,0 +1,6 @@
+name: hipotenusa
+type: problem
+label: Calculando a Hipotenusa
+text: hipotenusa.md
+include:
+- public_tests.yaml, public, ro
