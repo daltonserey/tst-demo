@@ -80,3 +80,4 @@ to evolve the answer.
 
 - [Hello, World!](hello/hello.md) (`hello`)
 - [Celsius, Fahrenheit](conversions/conversions.md) (`conversions`)
+- [Hipotenusa](hipotenusa/text.md) (`hipotenusa` pt-br only)
