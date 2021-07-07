@@ -1,0 +1,6 @@
+name: delta
+type: problem
+label: Delta
+text: delta.md
+include:
+- public_tests.yaml, public, rw
