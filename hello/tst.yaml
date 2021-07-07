@@ -4,3 +4,9 @@ text: hello.md
 include:
 - hello_pt.md, public, ro
 - public_tests.yaml, public, ro
+- answer1.py, public, rw
+- answer2.py, public, rw
+- answer3.py, public, rw
+- answer4.py, public, rw
+- answer5.py, public, rw
+- answer6.py, public, rw
